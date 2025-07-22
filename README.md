@@ -34,7 +34,7 @@ Por otro lado, si quieres aprender de un área en específico, basta con dirigir
 | [Excel](./9_excel/)| Lorem | |
 | [Business Intelligence](./10_bi/)| Lorem | |
 | [Manejo de la Terminal](./Terminal/) | Lorem | |
-| [Datasets](./Datasets/) | Lorem | |
+| [Datasets](./Datasets/Datasets.md) | Lorem | |
 
 ---
 
