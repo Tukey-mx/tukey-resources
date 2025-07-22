@@ -23,8 +23,7 @@ Por otro lado, si quieres aprender de un área en específico, basta con dirigir
 
 | Carpeta | Contenido | Nivel |
 | ------- | --------- | ----- |
-| [Introducción](./0_intro/) | Lorem | 🟢 |
-| [Fundamentos](./1_fundamentos/Fundamentos.md) | Lorem | 🟢 |
+| [Fundamentos CS en Python](./1_fundamentos/Fundamentos.md) | Lorem | 🟢 |
 | [Matemáticas](./2_mates/) | Lorem | 🟢 🟡 |
 | [Machine Learning](./3_ml/) | Lorem | |
 | [Deep Learning](./4_deepl/) | Lorem | |
