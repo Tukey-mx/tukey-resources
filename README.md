@@ -9,11 +9,19 @@ Los recursos están organizados por temas y niveles para facilitar tu progreso:
 - 🟡 Intermedio  
 - 🔴 Avanzado 
 
+Por otro lado, cada área de recursos tiene los siguientes tipos de estados:
+
+| Símbolo | Significado          |
+|---------|---------------------|
+| ✏️       | En progreso         |
+| ✅       | Añadido / Completado |
+| ❌       | Pendiente / No iniciado |
+
 ---
 
 ## ¿No tienes experiencia en programación?
 
-Empieza por las carpetas `0_intro`y `1_fundamentos`, donde encontrarás materiales para aprender desde lo más básico de informática.
+Empieza por las carpeta `1_fundamentos`, donde encontrarás materiales para aprender desde lo más básico de informática.
 
 Por otro lado, si quieres aprender de un área en específico, basta con dirigirte al apartado que desees.
 
@@ -21,20 +29,20 @@ Por otro lado, si quieres aprender de un área en específico, basta con dirigir
 
 ## Estructura
 
-| Carpeta | Contenido | Nivel |
-| ------- | --------- | ----- |
-| [Fundamentos CS en Python](./1_fundamentos/Fundamentos.md) | Lorem | 🟢 |
-| [Matemáticas](./2_mates/) | Lorem | 🟢 🟡 |
-| [Machine Learning](./3_ml/) | Lorem | |
-| [Deep Learning](./4_deepl/) | Lorem | |
-| [NLP](./5_nlp/) | Lorem | |
-| [LLMs](./6_llms/) | Lorem | |
-| [SQL](./7_sql/) | Lorem | |
-| [Python](./8_python/) | Lorem | |
-| [Excel](./9_excel/)| Lorem | |
-| [Business Intelligence](./10_bi/)| Lorem | |
-| [Manejo de la Terminal](./Terminal/) | Lorem | |
-| [Datasets](./Datasets/Datasets.md) | Lorem | |
+| Carpeta                    | Contenido | Nivel | Estado |
+|----------------------------|-----------|-------|--------|
+| [Fundamentos CS en Python](./1_fundamentos/Fundamentos.md) | Lorem    | 🟢     | ✏️      |
+| [Matemáticas](./2_mates/)                             | Lorem    | 🟢 🟡  | ❌      |
+| [Machine Learning](./3_ml/)                           | Lorem    |        | ❌      |
+| [Deep Learning](./4_deepl/DeepLearning.md)            | Lorem    |        | ✏️      |
+| [NLP](./5_nlp/)                                       | Lorem    |        | ❌      |
+| [LLMs](./6_llms/)                                     | Lorem    |        | ❌      |
+| [SQL](./7_sql/)                                       | Lorem    |        | ❌      |
+| [Python](./8_python/)                                 | Lorem    |        | ❌      |
+| [Excel](./9_excel/)                                   | Lorem    |        | ❌      |
+| [Business Intelligence](./10_bi/)                     | Lorem    |        | ❌      |
+| [Manejo de la Terminal](./Terminal/)                   | Lorem    |        | ❌      |
+| [Datasets](./Datasets/Datasets.md)                    | Lorem    |        | ✏️      |
 
 ---
 
