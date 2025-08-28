@@ -1,53 +1,64 @@
-# Recursos de aprendizaje - Tukey
+# 📚 Recursos de Aprendizaje - Tukey
+
 ---
 
-Este repositorio, creado inicialmente por el club de ciencia de datos de ESCOM,  está dirigido a personas que quieran aprender Inteligencia Artificial, Machine Learning, Deep Learning, Procesamiento de lenguaje natural, etc. de manera **autodidacta**.
+Este repositorio, creado inicialmente por el **Club de Ciencia de Datos de ESCOM**, está dirigido a personas que quieran aprender **Inteligencia Artificial, Aprendizaje Automático, Aprendizaje Profundo, Procesamiento de Lenguaje Natural, Modelos de Lenguaje Extensos (LLMs)** y mucho más, de manera **autodidacta**.
 
 Los recursos están organizados por temas y niveles para facilitar tu progreso:
 
 - 🟢 Principiante  
 - 🟡 Intermedio  
-- 🔴 Avanzado 
+- 🔴 Avanzado  
 
-Por otro lado, cada área de recursos tiene los siguientes tipos de estados:
+Además, cada área de recursos incluye un **estado de avance**:
 
 | Símbolo | Significado          |
-|---------|---------------------|
+|---------|----------------------|
 | ✏️       | En progreso         |
-| ✅       | Añadido / Completado |
-| ❌       | Pendiente / No iniciado |
+| ✅       | Completado          |
+| ❌       | Pendiente          |
 
 ---
 
-## ¿No tienes experiencia en programación?
+## 🚀 Si no tienes experiencia en programación
 
-Empieza por las carpeta `1_fundamentos`, donde encontrarás materiales para aprender desde lo más básico de informática.
+Empieza por los **Fundamentos**, donde encontrarás material introductorio para aprender desde lo más básico de **informática, algoritmos y programación en Python**.  
 
-Por otro lado, si quieres aprender de un área en específico, basta con dirigirte al apartado que desees.
-
----
-
-## Estructura
-
-| Carpeta                    | Contenido | Nivel | Estado |
-|----------------------------|-----------|-------|--------|
-| [Fundamentos CS en Python](./1_fundamentos/Fundamentos.md) | Lorem    | 🟢     | ✏️      |
-| [Matemáticas](./2_mates/)                             | Lorem    | 🟢 🟡  | ❌      |
-| [Machine Learning](./3_ml/)                           | Lorem    |        | ❌      |
-| [Deep Learning](./4_deepl/DeepLearning.md)            | Lorem    |        | ✏️      |
-| [NLP](./5_nlp/)                                       | Lorem    |        | ❌      |
-| [LLMs](./6_llms/)                                     | Lorem    |        | ❌      |
-| [SQL](./7_sql/)                                       | Lorem    |        | ❌      |
-| [Python](./8_python/)                                 | Lorem    |        | ❌      |
-| [Excel](./9_excel/)                                   | Lorem    |        | ❌      |
-| [Business Intelligence](./10_bi/)                     | Lorem    |        | ❌      |
-| [Manejo de la Terminal](./Terminal/)                   | Lorem    |        | ❌      |
-| [Datasets](./Datasets/Datasets.md)                    | Lorem    |        | ✏️      |
+Si ya tienes experiencia, puedes dirigirte directamente a cualquier otro apartado según tu interés.
 
 ---
 
-> ⚠️ **Nota:** El orden de esta tabla **no implica un camino obligatorio ni una secuencia de estudio recomendada**.  
-> Puedes explorar los temas en el orden que prefieras, según tus intereses o nivel actual.
+## 📂 Estructura del repositorio
+
+| Carpeta                                            | Contenido                                                                                                      | Nivel      | Estado |
+|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------|--------|
+| [**Fundamentos de Computación en Python**](./1_fundamentos/Fundamentos.md) | Introducción a la informática, algoritmos básicos, estructuras de datos, lógica de programación y Python desde cero. | 🟢        | ✏️      |
+| [**Matemáticas**](./2_mates/)                     | Álgebra, cálculo, probabilidad, estadística y fundamentos matemáticos para IA y ML.                             | 🟢 🟡     | ❌      |
+| [**Aprendizaje Automático**](./3_ml/)             | Conceptos de aprendizaje supervisado y no supervisado, modelos clásicos, regresión, árboles, clustering y métricas. | 🟢 🟡 🔴  | ❌      |
+| [**Aprendizaje Profundo**](./4_deepl/DeepLearning.md) | Redes neuronales, CNN, RNN, LSTM, Transformers, autoencoders, regularización y optimización.                       | 🟡 🔴    | ✅      |
+| [**Procesamiento de Lenguaje Natural (PLN)**](./5_nlp/) | Tokenización, embeddings, transformers, modelos de lenguaje y aplicaciones en texto.                            | 🟡 🔴    | ❌      |
+| [**Modelos de Lenguaje Extensos (LLMs)**](./6_llms/) | Modelos masivos como GPT, LLaMA, Mistral, prompting, afinación y casos de uso.                                   | 🔴        | ❌      |
+| [**SQL**](./7_sql/)                              | Fundamentos de bases de datos, consultas, joins, optimización de queries y análisis de datos.                   | 🟢 🟡    | ❌      |
+| [**Python Avanzado**](./8_python/)               | Buenas prácticas, librerías esenciales, entornos virtuales, depuración y trucos avanzados.                      | 🟢 🟡    | ❌      |
+| [**Excel**](./9_excel/)                         | Análisis de datos, tablas dinámicas, funciones, dashboards y automatización.                                    | 🟢        | ❌      |
+| [**Inteligencia de Negocios (BI)**](./10_bi/)    | Power BI, Tableau, Looker y creación de dashboards interactivos para visualización de datos.                     | 🟢 🟡    | ❌      |
+| [**Manejo de la Terminal**](./Terminal/)         | Comandos básicos, scripting, automatización y manejo de procesos en sistemas operativos.                        | 🟢 🟡    | ❌      |
+| [**Datasets**](./Datasets/Datasets.md)           | Colección de datasets gratuitos y abiertos para prácticas y proyectos.                                          | 🟢 🟡    | ✏️      |
+
+---
+
+> ⚠️ **Nota:**  
+> El orden de esta tabla **no implica un camino obligatorio** ni una secuencia fija.  
+> Puedes explorar los temas en el orden que prefieras según tu nivel y tus intereses.
+
+---
+
+## 🧠 Nota de Transparencia
+
+> ℹ️ **Aviso importante:**  
+> Algunos de los contenidos, resúmenes y recomendaciones de recursos de este repositorio fueron **asistidos con IA** para facilitar la organización y compilación de materiales.  
+>
+> ⚠️ **Por favor revisa siempre las fuentes originales** y confirma que los enlaces y conceptos estén actualizados antes de utilizarlos en proyectos reales o producción.
 
 ---
 
