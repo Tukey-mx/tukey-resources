@@ -80,7 +80,7 @@ Sigmoid, Tanh, ReLU, LeakyReLU: introducen no linealidad en las redes.
 **Recursos:**  
 | 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
 |----------|--------------|-----------|---------------|
-| [video](https://www.youtube.com/watch?v=3tuh-k8YVhQ) / [alternativa](https://www.youtube.com/watch?v=68BZ5f7P94E) | [GeeksforGeeks – Sigmoid vs ReLU](https://www.geeksforgeeks.org/deep-learning/tanh-vs-sigmoid-vs-relu/) | *Deep Learning* (cap. 6) | [Ejercicio](ejercicio_funciones_activacion.md) |
+| | [GeeksforGeeks – Sigmoid vs ReLU](https://www.geeksforgeeks.org/deep-learning/tanh-vs-sigmoid-vs-relu/) | *Deep Learning* (cap. 6) | [Ejercicio](ejercicio_funciones_activacion.md) |
 
 ---
 
@@ -91,7 +91,7 @@ Redes que clasifican en función de la similitud con prototipos (funciones gauss
 **Recursos:**  
 | 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
 |----------|--------------|-----------|---------------|
-| [video](https://www.youtube.com/watch?v=GJX-iBNnlJY) | [Chris McCormick – RBFN Tutorial](https://mccormickml.com/2013/08/15/radial-basis-function-network-rbfn-tutorial/) | *Neural Networks and Learning Machines* | [Ejercicio](ejercicio_rbf.md) |
+| | [Chris McCormick – RBFN Tutorial](https://mccormickml.com/2013/08/15/radial-basis-function-network-rbfn-tutorial/) | *Neural Networks and Learning Machines* | [Ejercicio](ejercicio_rbf.md) |
 
 ---
 
@@ -124,7 +124,7 @@ Modelos especializados en imágenes usando convoluciones y pooling.
 **Recursos:**  
 | 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
 |----------|--------------|-----------|---------------|
-| [video](https://www.youtube.com/watch?v=iaSUYvmCekI) / [alternativa](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg) | [CS231n Notes](https://cs231n.github.io/convolutional-networks/) | *Deep Learning* (cap. 9) | [Ejercicio](ejercicio_cnn.md) |
+| [video](https://www.youtube.com/watch?v=iaSUYvmCekI) | [CS231n Notes](https://cs231n.github.io/convolutional-networks/) | *Deep Learning* (cap. 9) | [Ejercicio](ejercicio_cnn.md) |
 
 ---
 
