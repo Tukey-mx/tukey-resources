@@ -1,436 +1,244 @@
-# Fundamentos
+# Fundamentos de computacion con Python
 
-✅ -> Añadido
+✅ -> Añadido  
+✏️ -> En progreso  
 
-✏️ -> En progreso
+## Indice
 
-## Índice
+**Nota**: Se recomienda seguir todo el curso [CS50](https://youtu.be/LfaMVlDaQ24?si=LRfLG9Fi8rhpBZxN) de la Universidad de Harvard ya que es excelente para entender los fundamentos generales de la computacion.
 
 | Tema | Estado |
 | --- | -- |
-| [¿Qué son las ciencias de la computación?](#qué-son-las-ciencias-de-la-computación) | ✏️ |
-| [¿Cómo funcionan las computadoras?](#cómo-funcionan-las-computadoras) |✏️|
-| [¿Qué es la programación?](#qué-es-la-programación) |✏️|
-| [Tipos de lenguajes de programación](#tipos-de-lenguajes-de-programación) |✏️|
-| [Diagramas de flujo](#diagramas-de-flujo) |✏️|
-| [¿Qué son los bits?](#qué-son-los-bits) |✏️|
-| [Representación de números y texto en bits](#representación-de-números-y-texto-en-bits) |✏️|
-| [Variables](#variables) |✏️|
-| [Entrada y Salida estándar](#entrada-y-salida-estándar) |✏️|
-| [Tipos de datos](#tipos-de-datos) |✏️|
-| [Apuntadores (para almacenamiento de cadenas)](#apuntadores-para-almacenamiento-de-cadenas) |✏️|
-| [Operadores aritméticos](#operadores-aritméticos) |✏️|
-| [Operadores lógicos](#operadores-lógicos) |✏️|
-| [Sentencias de control](#sentencias-de-control) |✏️|
-| [Introducción a las estructuras de datos](#introducción-a-las-estructuras-de-datos) |✏️|
-| [Listas en Python](#listas-en-python) |✏️|
-| [Bucles for y while](#bucles-for-y-while) |✏️|
-| [Diccionarios](#diccionarios) |✏️|
-| [Creación de funciones](#creación-de-funciones) |✏️|
-| [Funciones con parámetros](#funciones-con-parámetros) |✏️|
-| [Funciones con retornos](#funciones-con-retornos) |✏️|
-| [Módulos (python)](#módulos-python) |✏️|
-| [Programación Orientada a Objetos](#programación-orientada-a-objetos) |✏️|
+| [¿Qué son las ciencias de la computacion?](#que-son-las-ciencias-de-la-computacion) | ✅ |
+| [¿Cómo funcionan las computadoras?](#como-funcionan-las-computadoras) | ✅ |
+| [¿Qué es la programacion?](#que-es-la-programacion) | ✅ |
+| [Tipos de lenguajes de programacion](#tipos-de-lenguajes-de-programacion) | ✅ |
+| [Diagramas de flujo](#diagramas-de-flujo) | ✅ |
+| [¿Qué son los bits?](#que-son-los-bits) | ✅ |
+| [¿Qué es Python?](#que-es-python) | ✅ |
+| [Instalacion de Python y VScode](#instalacion-de-python-y-vscode) | ✅ |
+| [Primer Programa en Python](#primer-programa-en-python) | ✅ |
+| [Variables y tipos de datos](#variables-y-tipos-de-datos) | ✅ |
+| [Entrada y salida estandar](#entrada-y-salida-estandar) | ✅ |
+| [Conversion entre tipos de datos](#conversion-entre-tipos-de-datos) | ✅ |
+| [Operaciones aritmeticas](#operaciones-aritmeticas) | ✅ |
+| [Concatenacion](#concatenacion) | ✅ |
+| [Cadenas](#cadenas) | ✅ |
+| [Listas](#listas) | ✅ |
+| [Bucles](#bucles) | ✅ |
+| [Condicionales](#condicionales) | ✅ |
+| [Funciones](#funciones) | ✅ |
+| [Introduccion a Pandas](#introduccion-a-pandas) | ✅ |
 
 ---
 
-## ¿Qué son las ciencias de la computación?
+## ¿Que son las ciencias de la computacion?
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+|-----------|-------------|----------|--------------|
+| [CS50 Harvard - Introduccion](https://youtu.be/LfaMVlDaQ24?si=LRfLG9Fi8rhpBZxN) | — | — | |
 
-- Entender qué abarca la disciplina de la computación.
-- Conocer la diferencia entre ciencias de la computación, programación e ingeniería de software.
-- Desmitificar la idea de que CS = solo programar.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## ¿Cómo funcionan las computadoras?
+## Como funcionan las computadoras
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [How Computers Actually Work - Huggbees](https://youtu.be/OHoS3VEfKRQ) | [How Computers Work Part 1 - Dev.to](https://dev.to/joshcarvel/how-computers-work-part-1-2o9l) | — | |
+| — | [How Computers Work Part 2 - Dev.to](https://dev.to/joshcarvel/how-computers-work-part-2-57al) | — | |
+| — | [How Computers Work Part 3 - Dev.to](https://dev.to/joshcarvel/how-computers-work-part-3-software-kk8) | — | |
 
-- Comprender qué es una computadora desde el punto de vista de hardware y software.
-- Entender cómo se ejecutan instrucciones a nivel básico.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## ¿Qué es la programación?
+## Que es la programacion
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [¿Qué es programar? – GCFAprendeLibre](https://www.youtube.com/watch?v=EfhiOIHTmJg) | — | — | |
 
-- Comprender qué significa programar y cuál es su propósito.
-- Conocer los pasos básicos para escribir un programa.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
+[Regresar al indice](#indice)
 
 ---
 
-## Tipos de lenguajes de programación
+## Tipos de lenguajes de programacion
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [Tipos de lenguajes de programacion – EDteam](https://www.youtube.com/watch?v=gFMMmi-EYEM) | [¿Qué son los lenguajes de programacion? – Universidad San Marcos](https://www.usanmarcos.ac.cr/blogs/que-son-los-lenguajes-de-programacion) | — | |
 
-- Conocer las diferencias entre lenguajes de bajo y alto nivel.
-- Entender conceptos básicos como compilación e interpretación.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
 ## Diagramas de flujo
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [Diagramas de flujo y pseudocodigo – JuanRa Garcia](https://www.youtube.com/watch?v=Lub5qOmY4JQ) | [Diagrama de Flujo – Universidad Veracruzana (PDF)](https://www.uv.mx/personal/aherrera/files/2020/05/DIAGRAMAS-DE-FLUJO.pdf) | [Desarrollo de Algoritmos y Diagramas de Flujo – UAT (PDF)](https://libros.uat.edu.mx/index.php/librosuat/catalog/download/325/309/1179?inline=1) | |
 
-- Aprender a representar algoritmos mediante diagramas.
-- Entender símbolos comunes y cómo usarlos.
-- Aplicar diagramas para planificar programas simples.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## ¿Qué son los bits?
+## Que son los bits
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [¿Qué es un bit? ¿Qué es un byte?](https://youtu.be/KLR5Y2uBYng?si=YGpq2SAwtpfEBHzo) | [Bits and Bytes - Stanford](https://web.stanford.edu/class/cs101/bits-bytes.html) | — | — |
 
-- Entender qué es un bit y su importancia en computación.
-- Conocer la representación binaria de información.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Representación de números y texto en bits
+## Que es Python
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [¿Qué es Python?](https://youtu.be/QoIRX37VZpo?si=kWkOtBcZOWaCe6NI) | [Que es Python – AWS](https://aws.amazon.com/es/what-is/python/) | [Python para Todos (PDF)](https://do1.dr-chuck.com/pythonlearn/ES_es/pythonlearn.pdf) | |
 
-- Comprender cómo se codifican números y texto en bits.
-- Conocer sistemas de numeración (binario, decimal, hexadecimal).
-- Entender estándares como ASCII y Unicode.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Variables
+## Instalacion de Python y VSCode
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [Instalacion de Python - Windows](https://youtu.be/C3bOxcILGu4?si=PmU9GVQsffs17ljP) | — | — | — |
+| [Instalacion de Python - MacOs](https://youtu.be/NjOUb_uePc8?si=QW2MtvkDhQ64JRng) | — | — | — |
+| [Anaconda - ambientes virtuales](https://youtu.be/MUZtVEDKXsk?si=bhGuwlZ6KyvVx-br) | — | — | — |
 
-- Entender qué es una variable y su uso en programación.
-- Aprender sobre asignación y tipos básicos.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Entrada y Salida estándar
+## Primer Programa en Python
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| — | [Hola Mundo Python – DataCamp](https://www.datacamp.com/es/tutorial/python-hello-world-a-beginners-guide-to-programming) | — | |
 
-- Conocer qué es stdin y stdout.
-- Aprender a recibir entrada del usuario y mostrar salida.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Tipos de datos
+## Variables y tipos de datos
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [Variables - w3](https://youtu.be/Gf9wLsCJDqc?si=UG-wM0k9vS0b7K5n) | [Variables and scope](https://python-textbok.readthedocs.io/en/1.0/Variables_and_Scope.html) | — | — |
+| [Data Types in Python](https://youtu.be/ppsCxnNm-JI?si=fNqrftNxrWDa_WRm) | [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp) | — | — |
 
-- Reconocer tipos de datos comunes (int, float, bool, string).
-- Entender la diferencia entre tipos estáticos y dinámicos.
-- Saber cuándo y cómo usar cada tipo.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Apuntadores (para almacenamiento de cadenas)
+## Entrada y salida estandar
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| — | [Geeksforgeeks docs](https://www.geeksforgeeks.org/python/input-and-output-in-python/) | — | — |
 
-- Entender el concepto básico de apuntadores/referencias.
-- Comprender cómo se almacenan cadenas en memoria.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Operadores aritméticos
+## Conversion entre tipos de datos
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [Type Casting - BroCode](https://youtu.be/Qtq83lAoogM?si=TkBg2Rl_ftTeCCNn) | [Python Casting - w3](https://www.w3schools.com/python/python_casting.asp) | — | — |
 
-- Aprender operadores básicos: +, -, *, /, %.
-- Entender precedencia y asociatividad.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Operadores lógicos
+## Operaciones aritmeticas
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| — | [Geeksforgeeks reference](https://www.geeksforgeeks.org/python/python-arithmetic-operators/) | — | — |
 
-- Conocer operadores lógicos: AND, OR, NOT.
-- Aplicar operadores en condiciones y control de flujo.
-- Entender tablas de verdad básicas.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Sentencias de control
+## Concatenacion
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| — | [Real Python docs](https://realpython.com/python-string-concatenation/) | — | — |
 
-- Entender sentencias condicionales (if, else, elif).
-- Aplicar estructuras para decidir el flujo del programa.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Introducción a las estructuras de datos
+## Cadenas
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| — | [Python Strings - Google](https://developers.google.com/edu/python/strings) | — | — |
 
-- Conocer qué son estructuras de datos y para qué sirven.
-- Introducción a arreglos/listas, colas, pilas.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Listas en Python
+## Listas
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [Introduction to lists - CS Dojo](https://youtu.be/tw7ror9x32s?si=yzH3WWMaz8doSgqW) | — | — | — |
+| [What is a list? - NetworkChuck](https://youtu.be/1KLgcBcWCsE?si=soMCcA0veWShGDyk) | — | — | — |
 
-- Aprender a crear y manipular listas.
-- Conocer métodos comunes (append, remove, sort).
-- Entender indexación y slicing.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Bucles for y while
+## Bucles
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [For Loop - CS Dojo](https://youtu.be/OnDr4J2UXSA?si=GBqQcAe6GPvOOSLY) | — | — | — |
+| [While loop - CS Dojo](https://youtu.be/6TEGxJXLAWQ?si=YE-l0i1gyHVKHUyg) | — | — | — |
+| [More about loops - CS Dojo](https://youtu.be/iVyWLmQ0QYA?si=YbJSuspyIpQxQ3WG) | — | — | — |
 
-- Entender uso de bucles para repetir tareas.
-- Conocer diferencias entre for y while.
-- Aplicar bucles con listas y condiciones.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Diccionarios
+## Condicionales
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| — | [Python Conditions - w3schools](https://www.w3schools.com/python/python_conditions.asp) | — | — |
 
-- Comprender qué es un diccionario y sus usos.
-- Aprender a crear, modificar y acceder a diccionarios.
-- Saber cuándo usar diccionarios vs listas.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Creación de funciones
+## Funciones
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| — | [Python functions - w3schools](https://www.w3schools.com/python/python_functions.asp) | — | — |
 
-- Entender qué es una función y su utilidad.
-- Aprender a definir y llamar funciones básicas.
-- Conocer la estructura general de una función.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Funciones con parámetros
+## Introduccion a Pandas
 
-**Objetivos:**
+| 🎥 Videos | 📝 Artículos | 📘 Libro | 🧠 Ejercicios |
+| ------ | --------- | ------ | ---------- |
+| [What is Pandas - Python Programmer](https://www.youtube.com/watch?v=dcqPhpY7tWk) | [W3Schools – Tutorial de Pandas](https://www.w3schools.com/python/pandas/default.asp) | — | — |
+| — | [DataCamp – Pandas Tutorial](https://www.datacamp.com/tutorial/pandas-tutorial-dataframe-python) | — | — |
 
-- Aprender a definir funciones con parámetros.
-- Comprender paso de argumentos.
-- Usar parámetros para hacer funciones reutilizables.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
+[Regresar al indice](#indice)
 
 ---
 
-## Funciones con retornos
-
-**Objetivos:**
-
-- Usar retornos para encadenar procesos.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
-
----
-
-## Módulos (python)
-
-**Objetivos:**
-
-- Conocer qué son los módulos y su utilidad.
-- Aprender a importar y usar módulos estándar.
-- Explorar módulos comunes útiles para principiantes.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
-
----
-
-## Programación Orientada a Objetos
-
-**Objetivos:**
-
-- Entender los conceptos básicos: clases, objetos, métodos, atributos.
-- Aprender a definir clases simples en Python.
-
-**Recursos:**
-
-| 🎥 Videos | 📝 Artículos | 📘 Libros | 🧠 Ejercicios |
-|----------|--------------|-----------|--------------|
-|          |              |           |              |
-
-[Back to top](#fundamentos)
-
----
-
-[Regresar al menú principal](../README.md)
+[Regresar al menu principal](../README.md)
