@@ -38,11 +38,11 @@ Si ya tienes experiencia, puedes dirigirte directamente a cualquier otro apartad
 | [**Aprendizaje Profundo**](./4_deepl/DeepLearning.md) | Redes neuronales, CNN, RNN, LSTM, Transformers, autoencoders, regularización y optimización.                       | 🟡 🔴    | ✅      |
 | [**Procesamiento de Lenguaje Natural (PLN)**](./5_nlp/) | Tokenización, embeddings, transformers, modelos de lenguaje y aplicaciones en texto.                            | 🟡 🔴    | ❌      |
 | [**Modelos de Lenguaje Extensos (LLMs)**](./6_llms/) | Modelos masivos como GPT, LLaMA, Mistral, prompting, afinación y casos de uso.                                   | 🔴        | ❌      |
-| [**SQL**](./7_sql/)                              | Fundamentos de bases de datos, consultas, joins, optimización de queries y análisis de datos.                   | 🟢 🟡    | ✏️      |
-| [**Python Avanzado**](./8_python/)               | Buenas prácticas, librerías esenciales, entornos virtuales, depuración y trucos avanzados.                      | 🟢 🟡    | ❌      |
+| [**SQL**](./7_sql/Sql.md)                              | Fundamentos de bases de datos, consultas, joins, optimización de queries y análisis de datos.                   | 🟢 🟡    | ✏️      |
+| [**Python Avanzado**](./8_python/python_avanzado.md)               | Buenas prácticas, librerías esenciales, entornos virtuales, depuración y trucos avanzados.                      | 🟢 🟡    | ✏️       |
 | [**Excel**](./9_excel/)                         | Análisis de datos, tablas dinámicas, funciones, dashboards y automatización.                                    | 🟢        | ❌      |
 | [**Inteligencia de Negocios (BI)**](./10_bi/)    | Power BI, Tableau, Looker y creación de dashboards interactivos para visualización de datos.                     | 🟢 🟡    | ❌      |
-| [**Manejo de la Terminal**](./Terminal/)         | Comandos básicos, scripting, automatización y manejo de procesos en sistemas operativos.                        | 🟢 🟡    | ✏️      |
+| [**Manejo de la Terminal**](./terminal/Terminal.md)         | Comandos básicos, scripting, automatización y manejo de procesos en sistemas operativos.                        | 🟢 🟡    | ✏️      |
 | [**Datasets**](./Datasets/Datasets.md)           | Colección de datasets gratuitos y abiertos para prácticas y proyectos.                                          | 🟢 🟡    | ✏️      |
 
 ---
